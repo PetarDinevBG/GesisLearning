@@ -7,3 +7,4 @@ dependencies:
   - numpy=1.16.4
   - seaborn
   - pip
+  - scijava-jupyter-kernel
