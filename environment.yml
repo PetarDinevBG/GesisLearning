@@ -8,3 +8,4 @@ dependencies:
   - seaborn
   - pip
   - scijava-jupyter-kernel
+  - xeus-cling=0.8.1
